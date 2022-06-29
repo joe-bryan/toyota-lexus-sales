@@ -1,4 +1,4 @@
-# toyota-lexus-sales
+# Toyota Lexus monthly sales analysis
 This is the final project for a course called Visualization and Persuasion. Our task was to persuade the upper level management that the strategy for Toyota and Lexus is doing the job or not with data and visuals. We had to use Tableau for analysis and answered the questions below by articulating how, why, or why not. We had to choose 3 models from Toyota and 3 models from Lexus, in order to make a comparison they have to be compatible models. (i.e A Lexus suv with a Toyota suv.) We were also allowed get additional data from the Internet. The questions we had to answer are below:
 1.	Are there seasonal factors, if so what are they? Do Toyota and Lexus take advantage of them?
 2.	What is happening in December? What are the low and the high? In a year and the whole data range? Explain.
