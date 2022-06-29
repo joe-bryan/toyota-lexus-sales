@@ -11,3 +11,5 @@ This is the final project for a course called Visualization and Persuasion. Our 
 9.	Try to forecast the sales for the year in 2022 and 2023. (Tableau has a FORECAST button.)
 
 The data provided was not tidy, so lots of data wrangling was needed to do the analysis in Tableau.
+Below is a peek at the initial data file.
+<img width="520" alt="initial_data" src="https://user-images.githubusercontent.com/101160575/176481851-16b6d5c1-e3c5-4dd5-8f48-9b1eb714091e.png">
