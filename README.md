@@ -13,3 +13,8 @@ This is the final project for a course called Visualization and Persuasion. Our 
 The data provided was not tidy, so lots of data wrangling was needed to do the analysis in Tableau.
 Below is a peek at the initial data file.
 <p><img width="520" alt="initial_data" src="https://user-images.githubusercontent.com/101160575/176481851-16b6d5c1-e3c5-4dd5-8f48-9b1eb714091e.png"></p?>
+
+## Data Visualization Samples
+<img width="335" alt="snip1" src="https://user-images.githubusercontent.com/101160575/179429465-1f307ac2-a5f8-4395-8b0b-9469e0a047f9.png">
+<img width="367" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179429471-40ef671c-c55c-4bbe-866e-90ac5d6e9c7b.png">
+<img width="177" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179429474-b222782b-a2d7-491b-bb9a-31bb8ce3e286.png">
